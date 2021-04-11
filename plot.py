@@ -23,7 +23,7 @@ longitude_list1 = longitude[::2]
 gmap1 = gmplot.GoogleMapPlotter(37.186528, -3.618589, 9 )
 
 #To get a better quality map, we add the google maps api key. To get it follow the steps in: https://developers.google.com/maps?hl=es
-gmap1.apikey = "AIzaSyCG7HyvcAhlSWR-CrYyO3zCAl_Usoz3o3w"
+gmap1.apikey = "google_maps_api_key"
 
   
 # scatter points on the google map
