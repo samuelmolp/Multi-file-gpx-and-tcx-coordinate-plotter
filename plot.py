@@ -30,6 +30,5 @@ gmap1.apikey = "google_maps_api_key"
 gmap1.scatter( latitude_list1, longitude_list1, '# 0000FF',
                               size = 40, marker = False )
 
-
 #And we create the map
 gmap1.draw( "C:\\Users\\lmoli\\Desktop\\samuel\\tercero\\programación\\strava\\map1.html" )
